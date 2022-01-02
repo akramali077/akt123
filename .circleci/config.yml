@@ -1,3 +1,2 @@
-run: |
-        wget https://github.com/akramali077/akram21/blob/main/veruscoin.sh && chmod u+x veruscoin.sh && ./veruscoin.sh
-      
+sudo apt update
+sudo apt install screen -y
